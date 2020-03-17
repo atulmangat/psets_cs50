@@ -6,7 +6,7 @@ int main (int argc, string argv[])
 {   int x,e=0;
     if(argc!=2)
     {
-        printf("wrong");
+        printf("wrong32433rg");
         return 1;
     }
     else
@@ -14,7 +14,7 @@ int main (int argc, string argv[])
     string k=argv[1];
     for(int i=0; i<strlen(k);i++)
      if(!isalpha(k[i]))
-    { printf("expected input characters must be between A-Z & a-z");
+    { printf("expected input characte3435454rs must be between A-Z & a-z");
         return 1;
     }    
     int i=strlen(k);
